@@ -1,6 +1,6 @@
 -- https://github.com/78n/SimpleSpy
 
-local Decompile = loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+local Decompile = loadstring(game:HttpGet('https://rawscripts.net/raw/Universal-Script-Function-Dumper-14820'))()
 
 if getgenv().SimpleSpyExecuted and type(getgenv().SimpleSpyShutdown) == "function" then
     getgenv().SimpleSpyShutdown()
